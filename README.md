@@ -21,7 +21,7 @@ Este repositório serve como **índice central** para todas as minhas criações
 | Área | Repositório | Descrição |
 |------|--------------|------------|
 | 🐍 Python | [python-projetos](https://github.com/SEU_USUARIO/python-projetos) | Scripts e exercícios em Python |
-| 🤖 Automação (n8n) | [n8n-automacoes](https://github.com/SEU_USUARIO/n8n-automacoes) | Automações inteligentes e integrações com IA |
+| 🤖 Automação (n8n) | [n8n-automacoes](https://github.com/daviRolvr/n8n-automacoes) | Automações inteligentes e integrações com IA |
 | 🧠 Machine Learning | [machine-learning-basics](https://github.com/SEU_USUARIO/machine-learning-basics) | Estudos e experimentos em IA |
 | 💻 Outros projetos | [projetos-gerais](https://github.com/SEU_USUARIO/projetos-gerais) | Protótipos e pequenos experimentos |
 
