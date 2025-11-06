@@ -46,7 +46,7 @@ Demonstrar minha evolução como desenvolvedor, documentando meus aprendizados e
 
 📧 **Email:** daviemanueloliveira7@gmail.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/davi-oliveira-82a312222/](https://www.linkedin.com/in/davi-oliveira-82a312222/)  
-🐙 **GitHub:** [github.com/SEU_USUARIO](https://github.com/daviRolvr)
+🐙 **GitHub:** [github.com/daviRovr](https://github.com/daviRolvr)
 
 ---
 
