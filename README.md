@@ -1,4 +1,4 @@
-# 💼 Portfólio — Davi Oliveira
+# 💼 Portfólio — Davi Emanuel Ribeiro de Oliveira
 
 Bem-vindo ao meu portfólio de desenvolvimento!  
 Aqui compartilho meus **projetos, automações e estudos** em diversas áreas da tecnologia.  
@@ -8,11 +8,11 @@ Este repositório serve como **índice central** para todas as minhas criações
 
 ## 🚀 Tecnologias e Áreas de Atuação
 
-- 🐍 **Python para web** 
+- 📊 **Análise de Dados com Pandas & SQL** 
 - 🤖 **Automação de Processos  com n8n**
-- 💻 **Automaçao de processos com python** 
+- 💻 **Dashboards Interativos com Dash e Plotly** 
 - 🧠 **Machine Learning**
-- ⚙️ **Python office**
+
 
 ---
 
@@ -20,11 +20,11 @@ Este repositório serve como **índice central** para todas as minhas criações
 
 | Área | Repositório | Descrição |
 |------|--------------|------------|
-| 🐍 Python(web) | [python-web-projetos](https://github.com/SEU_USUARIO/python-projetos) | Criaçao de API's e sistemas |
-| 🤖 Automação (n8n) | [n8n-automacoes](https://github.com/daviRolvr/n8n-automacoes) | Automações inteligentes e integrações com IA |
-| 💻 Automaçao (python) | [python-automaçoes](https://github.com/SEU_USUARIO/projetos-gerais) | Automação de processos e testes |
-| 🧠 Machine Learning | [machine-learning-basics](https://github.com/SEU_USUARIO/machine-learning-basics) | Estudos e experimentos em IA |
-| ⚙️ Python office | [python-office](https://github.com/SEU_USUARIO/machine-learning-basics) | Python para Empresas |
+| 📊 Análise de Dados (Pandas & SQL) | [Projetos-analise-de-dados](https://github.com/SEU_USUARIO/Projetos-analise-de-dados) | Manipulação e análise de dados com Pandas e integração com SQL, seaborn e gráficos com matplotlib |
+| 🤖 Automação (n8n) | [Projetos-n8n-automacoes](https://github.com/daviRolvr/Projetos-n8n-automacoes) | Automações inteligentes e integrações com IA |
+| 📈 Dashboards Interativos com Dash e Plotly | [Projetos-dashboards](https://github.com/SEU_USUARIO/dashboards-python) | Criação de dashboards profissionais e interativos com Dash e Plotly |
+| 🧠 Machine Learning | [Projetos-machine-learning](https://github.com/SEU_USUARIO/Projetos-machine-learning) | Estudos e experimentos em IA |
+
 
 ---
 
@@ -39,7 +39,7 @@ Cada repositório contém:
 
 ## 🧠 Objetivo
 
-Demonstrar minha evolução como desenvolvedor, documentando meus aprendizados e compartilhando soluções úteis em automação, backend e IA.
+Demonstrar minha evolução como desenvolvedor, documentando meus aprendizados e compartilhando soluções úteis em automação, Análise de dados backend e IA.
 
 ---
 
