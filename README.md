@@ -9,7 +9,7 @@ Este repositório serve como **índice central** para todas as minhas criações
 ## 🚀 Tecnologias e Áreas de Atuação
 
 - 📊 **Análise de Dados com Pandas & SQL**
-- 📈 **💻 Aplicações IA**
+- 📈 **💻 Aplicações com IA**
 - 🤖 **Automação de Processos  com n8n**
 - 💻 **Dashboards Interativos com Dash e Plotly** 
 - 🧠 **Machine Learning**
