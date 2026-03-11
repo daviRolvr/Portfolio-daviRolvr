@@ -8,7 +8,8 @@ Este repositório serve como **índice central** para todas as minhas criações
 
 ## 🚀 Tecnologias e Áreas de Atuação
 
-- 📊 **Análise de Dados com Pandas & SQL** 
+- 📊 **Análise de Dados com Pandas & SQL**
+ -📈 **💻 Aplicações IA**
 - 🤖 **Automação de Processos  com n8n**
 - 💻 **Dashboards Interativos com Dash e Plotly** 
 - 🧠 **Machine Learning**
@@ -21,6 +22,7 @@ Este repositório serve como **índice central** para todas as minhas criações
 | Área | Repositório | Descrição |
 |------|--------------|------------|
 | 📊 Análise de Dados (Pandas & SQL) | [Projetos-analise-de-dados](https://github.com/SEU_USUARIO/Projetos-analise-de-dados) | Manipulação e análise de dados com Pandas e integração com SQL, seaborn e gráficos com matplotlib |
+| 💻 Aplicações IA  | [Projetos-IA-Aplicações](https://github.com/daviRolvr/Projetos-IA-Aplicações) |Aplicações diversas com IA  |
 | 🤖 Automação (n8n) | [Projetos-n8n-automacoes](https://github.com/daviRolvr/Projetos-n8n-automacoes) | Automações inteligentes e integrações com IA |
 | 📈 Dashboards Interativos com Dash e Plotly | [Projetos-dashboards](https://github.com/SEU_USUARIO/dashboards-python) | Criação de dashboards profissionais e interativos com Dash e Plotly |
 | 🧠 Machine Learning | [Projetos-machine-learning](https://github.com/SEU_USUARIO/Projetos-machine-learning) | Estudos e experimentos em IA |
